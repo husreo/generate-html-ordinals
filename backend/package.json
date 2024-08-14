@@ -2,6 +2,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "nvm": "^0.0.4",
+    "path": "^0.12.7",
     "remove": "^0.1.5",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.5.3"
