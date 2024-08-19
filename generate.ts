@@ -25,7 +25,7 @@ const generateMetadata = () => {
                         id: '.....',
                         metadata: {
                             name: 'Female' + '/' + race[r] + '/' + traits[t] + '/' + file.split('.')[0],
-                            description: "Trait for " + gender[0] + " " + race[r] + " " + "\'s" + traits[t]
+                            description: "Trait for " + gender[0] + " " + race[r] + " " + "\'s " + traits[t]
                         }
                     })
                 }
